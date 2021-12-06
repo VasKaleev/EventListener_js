@@ -144,8 +144,8 @@ h1 {
     margin-right: 10px;
 }
 li {
-	font-size: 40px;
-	letter-spacing: 20px;
+	font-size: 28px;
+    letter-spacing: 5px;
 }
 li:hover {
    display: inline;     
