@@ -137,39 +137,39 @@ h1 {
   margin: 100px auto;
 }
 .block_nav{
-	width: 100%;
-	padding-top: 70px;
-	padding-left: 10px;
-	/* height: 400px; */
-    margin-right: 10px;
+  width: 100%;
+  padding-top: 70px;
+  padding-left: 10px;
+  /* height: 400px; */
+  margin-right: 10px;
 }
 li {
-	font-size: 28px;
-    letter-spacing: 5px;
+  font-size: 28px;
+  letter-spacing: 5px;
 }
 li:hover {
-   display: inline;     
+  display: inline;     
 }
 .line {
-    margin-top: 50px;
-    width: 100%;
-    height: 30px;
-    border: 1px solid #8b0000;
-    border-radius: 10px;
-    background: #8b0000;
-    box-shadow: 0px 0px 15px rgba(2, 2, 2, 0.9);
+  margin-top: 50px;
+  width: 100%;
+  height: 30px;
+  border: 1px solid #8b0000;
+  border-radius: 10px;
+  background: #8b0000;
+  box-shadow: 0px 0px 15px rgba(2, 2, 2, 0.9);
 }
 .lamp {
-	padding-top: 100px;
+  padding-top: 100px;
 }
 .buttom {
-	top: 260px;
+ top: 260px;
 }
 .block_main{
-    width: 100%;
-    /* height: 400px; */
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
+ width: 100%;
+ /* height: 400px; */
+ display: flex;
+ flex-direction: column;
+ padding: 20px;
 }
 }
