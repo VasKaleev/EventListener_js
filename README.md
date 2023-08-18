@@ -1,2 +1,2 @@
-# Diplom_java_script
-https://vaskaleev.github.io/Diplom_javascript/
+# EventListener_js
+# https://vaskaleev.github.io/EventListener_js
